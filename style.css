@@ -51,6 +51,9 @@ body * {
 
 #profile img {
   width: 112px;
+  height: 112px;
+  object-fit: cover;
+  clip-path: circle();
 }
 
 #profile p {
